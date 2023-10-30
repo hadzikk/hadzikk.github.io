@@ -6,10 +6,10 @@ Pada website ini ada beberapa hal yang dapat di eksplorasi yaitu
 - Modal Box (detail elemen ketika card di klik)
 - Social (link sosial media yang saya gunakan)
 - Search (search dengan animasi onclick)
+Masih banyak hal yang belum ditambahkan di pada Halaman Website ini, namun setidaknya ada beberapa perubahan yang saya buat yaitu:
 - mengganti isi card
 - melengkapi data video yang sebelumnya kosong pada card
 - menggunakan GitHub Pages: [https://hadzikk.github.io](https://hadzikk.github.io)
-Masih banyak hal yang belum ditambahkan di pada Halaman Website ini, namun setidaknya ada beberapa perubahan yang saya buat yaitu:
 ## Perubahan
 Perbandingan perubahan dapat dilihat pada Tabel berikut
 
