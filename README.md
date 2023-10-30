@@ -6,6 +6,7 @@ Pada website ini ada beberapa hal yang dapat di eksplorasi yaitu
 - Modal Box (detail elemen ketika card di klik)
 - Social (link sosial media yang saya gunakan)
 - Search (search dengan animasi onclick)
+
 Masih banyak hal yang belum ditambahkan di Halaman Website ini, namun setidaknya ada beberapa perubahan yang saya buat yaitu:
 ## a. Perubahan
 - mengganti isi card
