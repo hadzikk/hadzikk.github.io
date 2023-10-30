@@ -7,10 +7,11 @@ Pada website ini ada beberapa hal yang dapat di eksplorasi yaitu
 - Social (link sosial media yang saya gunakan)
 - Search (search dengan animasi onclick)
 Masih banyak hal yang belum ditambahkan di pada Halaman Website ini, namun setidaknya ada beberapa perubahan yang saya buat yaitu:
+## a. Perubahan
 - mengganti isi card
 - melengkapi data video yang sebelumnya kosong pada card
 - menggunakan GitHub Pages: [https://hadzikk.github.io](https://hadzikk.github.io)
-## Perubahan
+## b. Perubahan
 Perbandingan perubahan dapat dilihat pada Tabel berikut
 
 
