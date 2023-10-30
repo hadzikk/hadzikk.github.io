@@ -1,0 +1,42 @@
+[
+  {
+    "judul": "The Revenant",
+    "video": "public/videos/The_Revenant___Official_Trailer_[HD]___20th_Century_FOX(1080p).mp4",
+    "gambar": "public/images/revenant.jpg"
+  },
+  {
+    "judul": "Jujutsu Kaisen 0 Movies",
+    "video": "public/videos/Jujutsu Kaisen 0_ The Movie - Official Trailer _ TOHO _ PVR Pictures.mp4",
+    "gambar": "public/images/jujutsu.jpg"
+  },
+  {
+  "judul": "Peaky Blinders",
+  "video": "public/videos/Peaky_Blinders_-_Season_1___Trailer(1080p).mp4",
+  "gambar": "public/images/peaky.jpg"
+  },
+  {
+    "judul": "Spiderman Across the Spider Verse",
+    "video": "public/videos/SPIDER-MAN__ACROSS_THE_SPIDER-VERSE_-_Official_Trailer__HD_(1080p).mp4",
+    "gambar": "public/images/spiderman.jpg"
+  },
+  {
+    "judul": "Cyberpunk Edgerunners",
+    "video": "public/videos/Cyberpunk__Edgerunners___Official_NSFW_Trailer___Netflix(1080p).mp4",
+    "gambar": "public/images/cyberpunk.jpg"
+  },
+  {
+    "judul": "Wednesday",
+    "video": "public/videos/Wednesday_Addams___Official_Teaser___Netflix(1080p).mp4",
+    "gambar": "public/images/wednesday.jpg"
+  },
+  {
+    "judul": "The End of F***ing World",
+    "video": "public/videos/The_End_of_the_F___ing_World__Season_1_Trailer___Rotten_Tomatoes_TV(1080p).mp4",
+    "gambar": "public/images/teofw.jpg"
+  },
+  {
+    "judul": "Slam Dunk Movie",
+    "video": "public/videos/THE FIRST SLAM DUNK (Official Trailer) - In GSCinemas 23 FEBRUARY 2023.mp4",
+    "gambar": "public/images/slamdunk.jpg"
+  }
+]
